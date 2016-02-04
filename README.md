@@ -1,10 +1,8 @@
 # hello-world
-just a test
 
+## Vorgehen
 
-mit edit-- im branch
-
-blaaaa slt
-
-
-noch ein test.. was ich wohl machen muss?
+1. Sync - um alles neue vom Server zu holen
+2. Änderungen lokal machen
+3. Changes -> Commit to Master mit Titel, Description optinal
+4. Sync - um änderungen auch auf den Server zu spielen
