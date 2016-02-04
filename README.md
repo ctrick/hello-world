@@ -20,3 +20,5 @@
 ## Branch
 
 1. Im Programm einen Branch vom Master anlegen
+2. Commit in den Branch
+3. ...
