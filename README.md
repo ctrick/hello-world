@@ -7,4 +7,8 @@
 3. Changes -> Commit to Master mit Titel, Description optinal
 4. Sync - um änderungen auch auf den Server zu spielen
 
-## Neue Datei?
+## Neue Datei
+
+1. Einfach lokal anlegen
+2. Commit
+3. Sync
